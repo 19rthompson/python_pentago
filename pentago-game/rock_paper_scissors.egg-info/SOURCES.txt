@@ -1,0 +1,12 @@
+README.md
+setup.py
+pentago_game.egg-info/PKG-INFO
+pentago_game.egg-info/SOURCES.txt
+pentago_game.egg-info/dependency_links.txt
+pentago_game.egg-info/requires.txt
+pentago_game.egg-info/top_level.txt
+rock_paper_scissors.egg-info/PKG-INFO
+rock_paper_scissors.egg-info/SOURCES.txt
+rock_paper_scissors.egg-info/dependency_links.txt
+rock_paper_scissors.egg-info/requires.txt
+rock_paper_scissors.egg-info/top_level.txt
