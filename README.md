@@ -4,8 +4,8 @@ Python Pentago
 ---
 ## file structure
 
-'''
-pentago_game/
+
+>pentago_game/
 ├── pentago_agents/
 │   ├── agent_0.py               # AI agent implementation
 │   ├── agent_1.py               # AI agent implementation
@@ -29,4 +29,3 @@ pentago_game/
 │   ├── rock_paper_scissors.egg-info
 │   ├── setup.py                 # Setup for package distribution
 └── README.md                    # This file
-'''
